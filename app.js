@@ -4,7 +4,7 @@
  */
 
 // ĐIỀN LINK WEB APP GOOGLE APPS SCRIPT CỦA BẠN VÀO ĐÂY:
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbycE7203N1VvjCjY53k7c36aK7Tph4x2Yw8P2Qn/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz4Ppnkt2N9yB9fwbY65ujoCxLWLiGGEwOo-tFkqxbl0bbxVB4HIc0plr1NZMIjs0MX/exec";
 
 // App State
 const state = {
